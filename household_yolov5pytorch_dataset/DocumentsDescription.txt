@@ -1,0 +1,8 @@
+1. household_yolov5pytorch_dataset: Used to place the Household Objects Dataset, the home dataset for this study. It contains data.yaml, and labelled image data for testing, training and validation.
+
+2. Training_Household: The project package used to train the yolov5s model for this study, contains python files for training the model and model detection. It also contains the weight files and visualisation of the results of the training on the dataset "Household Objects".
+
+3. AR_Detection_app(Android_Studio): This project is a project package for an AR cognitive support app (AR Detection app) built on Android Studio, which contains the converted tflite model, as well as the app interface layout files.
+
+4. AR_Detection_app.apk: This study packages the completed app as an apk file that users can download and install on mobile devices with Android version 10.0 or higher, such as tablets.
+

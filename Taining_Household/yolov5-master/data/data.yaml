@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 20
+names: ['Air-conditioner', 'bottle', 'bowl', 'clock', 'cup', 'fork', 'fridge', 'hairdryer', 'kettle', 'key', 'knife', 'microwave', 'oven', 'pen', 'phone', 'remote-control', 'rice-cooker', 'scissor', 'spoon', 'teapot']
